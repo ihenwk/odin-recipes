@@ -1,0 +1,26 @@
+
+*{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.main-header{
+    font-size: 100px;
+    text-align: center;
+}
+
+.subheading-one{
+    font-size: 30px;
+    text-align: center;
+    color: #8A974D;
+}
+
+
+.main-image{
+    width: 1450px;
+}
+
+.recipe-menu{
+    text-align: center;
+    list-style-type: none; /* removes bullet points from recipe list */
+    font-size: 18px;
+}
